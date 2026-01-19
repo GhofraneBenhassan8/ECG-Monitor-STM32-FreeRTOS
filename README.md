@@ -17,7 +17,7 @@ The project was developed as part of an academic course on Real-Time Systems Des
   <img width="45%" src="https://github.com/user-attachments/assets/2738590c-969a-4904-8261-a8d46550b11d" alt="System Demo"/>
 </p>
 
-The images above show the complete ECG monitoring system setup. The left image displays the hardware components including the STM32F407 Discovery board, AD8232 ECG sensor module (red board), SSD1306 OLED display, breadboard connections, and the three ECG electrodes with their connector cable. The right image shows the system during operation with the project presentation displayed on screen.
+The images above show the complete ECG monitoring system setup. The left image shows the system during operation with the project presentation displayed on screen. The right image displays the hardware components including the STM32F407 Discovery board, AD8232 ECG sensor module (red board), SSD1306 OLED display, breadboard connections, and the three ECG electrodes with their connector cable.
 
 
 ## Key Features
