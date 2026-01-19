@@ -10,6 +10,16 @@ ECG signals are acquired via the AD8232 ECG sensor, processed using digital filt
 
 The project was developed as part of an academic course on Real-Time Systems Design.
 
+## Hardware Setup
+
+<p align="center">
+  <img width="45%" src="https://github.com/user-attachments/assets/cab04ade-8357-4022-a06a-b7977d6ae34a" alt="Hardware Components"/>
+  <img width="45%" src="https://github.com/user-attachments/assets/2738590c-969a-4904-8261-a8d46550b11d" alt="System Demo"/>
+</p>
+
+The images above show the complete ECG monitoring system setup. The left image displays the hardware components including the STM32F407 Discovery board, AD8232 ECG sensor module (red board), SSD1306 OLED display, breadboard connections, and the three ECG electrodes with their connector cable. The right image shows the system during operation with the project presentation displayed on screen.
+
+
 ## Key Features
 
 - Real-time ECG acquisition using ADC + DMA
